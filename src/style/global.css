@@ -1,0 +1,125 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
+a {
+  color: var(--primary);
+}
+
+a:hover {
+  color: var(--secondary);
+}
+
+.title {
+  text-transform: uppercase;
+}
+
+.subtitle {
+  color: var(--medium);
+  font-weight: 400;
+}
+
+.block {
+  margin-bottom: 120px;
+}
+.text-justify{
+  text-align: justify;
+}
+.button {
+  text-transform: none;
+  font-weight: 500;
+  padding-left: 1.4rem;
+  padding-right: 1.4rem;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon, .carousel-indicators {
+  filter: invert(1);
+}
+.button-primary {
+  background-color: var(--primary);
+  border-color: var(--primary);
+}
+
+.button-primary:hover {
+  background-color: var(--primary-dark);
+  border-color: var(--primary-dark);
+}
+
+.grid-item {
+  float: left;
+  height: 555px;
+}
+.button-primary-outline {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.button-primary-outline:hover {
+  background-color: var(--primary-dark);
+  border-color: var(--primary-dark);
+}
+
+
+
+.badge {
+  text-transform: none;
+  font-weight: 500;
+  padding-left: 1.4rem;
+  padding-right: 1.4rem;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon, .carousel-indicators {
+  filter: invert(1);
+}
+.badge-primary {
+  background-color: var(--primary);
+  border-color: var(--primary);
+}
+
+.badge-primary:hover {
+  background-color: var(--primary-dark);
+  border-color: var(--primary-dark);
+}
+
+.badge-primary-outline {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.badge-primary-outline:hover {
+  background-color: var(--primary-dark);
+  border-color: var(--primary-dark);
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+  background: var(--primary);
+}
+
+.container-text h2 span.typed-text {
+  font-weight: normal;
+  color: var(--color-secondary);
+}
+
+.container-text h2 span.cursor {
+  display: inline-block;
+  background-color: #ccc;
+  margin-left: 0.1rem;
+  width: 3px;
+  animation: blink 1s infinite;
+}
+
+.container-text h2 span.cursor.typing {
+  animation: none;
+}
+
+@keyframes blink {
+  0%  { background-color: #ccc; }
+  49% { background-color: #ccc; }
+  50% { background-color: transparent; }
+  99% { background-color: transparent; }
+  100%  { background-color: #ccc; }
+}

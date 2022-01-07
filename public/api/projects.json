@@ -1,0 +1,3603 @@
+[
+	{
+		"_id": 1,
+		"projectName": "Jaclyn Mitchell",
+		"tagsListFrontEnd": [
+			"HTML",
+			"NextJS",
+			"Vue",
+			"Bulma",
+			"ReactJS",
+			"CSS",
+			"Booststrap"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"Javascript",
+			"PHP",
+			"Lua",
+			"NodeJS",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ENERFORCE",
+		"registered": "2016-03-21T12:57:11 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"HTML"
+		],
+		"projectTagsBackEnd": [
+			"Firebase",
+			"Javascript"
+		]
+	},
+	{
+		"_id": 2,
+		"projectName": "Puckett Hogan",
+		"tagsListFrontEnd": [
+			"HTML",
+			"Bulma",
+			"CSS",
+			"ReactJS",
+			"NextJS",
+			"Booststrap",
+			"Vue"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"Python",
+			"PHP",
+			"Javascript",
+			"Lua",
+			"Firebase"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "PAPRIKUT",
+		"registered": "2016-10-26T04:26:59 +02:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"HTML",
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS"
+		]
+	},
+	{
+		"_id": 3,
+		"projectName": "Contreras Gonzalez",
+		"tagsListFrontEnd": [
+			"Vue",
+			"NextJS",
+			"Bulma",
+			"ReactJS",
+			"Booststrap",
+			"HTML",
+			"CSS"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"Firebase",
+			"Lua",
+			"PHP",
+			"Javascript",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "AVENETRO",
+		"registered": "2016-12-30T05:30:48 +02:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS",
+			"Firebase"
+		]
+	},
+	{
+		"_id": 4,
+		"projectName": "Chandra Craig",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"Bulma",
+			"HTML",
+			"Vue",
+			"ReactJS",
+			"CSS",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"PHP",
+			"Firebase",
+			"Lua",
+			"Javascript",
+			"Python",
+			"NodeJS"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ZIZZLE",
+		"registered": "2021-10-18T02:46:59 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap",
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"PHP",
+			"Firebase"
+		]
+	},
+	{
+		"_id": 5,
+		"projectName": "Hawkins Morrison",
+		"tagsListFrontEnd": [
+			"ReactJS",
+			"CSS",
+			"Bulma",
+			"HTML",
+			"Booststrap",
+			"Vue",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"NodeJS",
+			"PHP",
+			"Javascript",
+			"Lua",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ZERBINA",
+		"registered": "2021-03-27T05:46:55 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"ReactJS"
+		],
+		"projectTagsBackEnd": [
+			"Firebase"
+		]
+	},
+	{
+		"_id": 6,
+		"projectName": "Mcconnell Greene",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"Vue",
+			"ReactJS",
+			"CSS",
+			"NextJS",
+			"HTML",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"Javascript",
+			"Firebase",
+			"NodeJS",
+			"Python",
+			"Lua",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "EXOZENT",
+		"registered": "2017-05-01T08:08:03 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap",
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"Javascript"
+		]
+	},
+	{
+		"_id": 7,
+		"projectName": "Acevedo Pickett",
+		"tagsListFrontEnd": [
+			"CSS",
+			"ReactJS",
+			"Bulma",
+			"HTML",
+			"Vue",
+			"Booststrap",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"Lua",
+			"Javascript",
+			"Python",
+			"PHP",
+			"NodeJS"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "REVERSUS",
+		"registered": "2019-11-04T02:45:48 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"CSS",
+			"ReactJS"
+		],
+		"projectTagsBackEnd": [
+			"Firebase",
+			"Lua"
+		]
+	},
+	{
+		"_id": 8,
+		"projectName": "Davenport Graham",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"CSS",
+			"Bulma",
+			"NextJS",
+			"Vue",
+			"ReactJS",
+			"HTML"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"Lua",
+			"Python",
+			"Javascript",
+			"PHP",
+			"NodeJS"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "GLUID",
+		"registered": "2019-10-29T10:29:12 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap",
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"Firebase"
+		]
+	},
+	{
+		"_id": 9,
+		"projectName": "Jeri Sparks",
+		"tagsListFrontEnd": [
+			"NextJS",
+			"HTML",
+			"Vue",
+			"Bulma",
+			"Booststrap",
+			"CSS",
+			"ReactJS"
+		],
+		"tagsListBackEnd": [
+			"Python",
+			"Javascript",
+			"Lua",
+			"PHP",
+			"Firebase",
+			"NodeJS"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ESCHOIR",
+		"registered": "2018-06-13T07:58:13 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"NextJS"
+		],
+		"projectTagsBackEnd": [
+			"Python"
+		]
+	},
+	{
+		"_id": 10,
+		"projectName": "Combs Cannon",
+		"tagsListFrontEnd": [
+			"CSS",
+			"NextJS",
+			"Vue",
+			"HTML",
+			"Booststrap",
+			"Bulma",
+			"ReactJS"
+		],
+		"tagsListBackEnd": [
+			"Javascript",
+			"Firebase",
+			"Lua",
+			"Python",
+			"NodeJS",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "EVENTAGE",
+		"registered": "2021-07-05T12:17:37 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"Javascript"
+		]
+	},
+	{
+		"_id": 11,
+		"projectName": "Herrera Hobbs",
+		"tagsListFrontEnd": [
+			"HTML",
+			"Vue",
+			"CSS",
+			"Booststrap",
+			"Bulma",
+			"ReactJS",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"Lua",
+			"Firebase",
+			"Python",
+			"Javascript",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "INTRADISK",
+		"registered": "2020-12-19T08:39:58 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"HTML",
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS"
+		]
+	},
+	{
+		"_id": 12,
+		"projectName": "Fulton Joyner",
+		"tagsListFrontEnd": [
+			"Vue",
+			"Bulma",
+			"ReactJS",
+			"HTML",
+			"Booststrap",
+			"NextJS",
+			"CSS"
+		],
+		"tagsListBackEnd": [
+			"PHP",
+			"NodeJS",
+			"Python",
+			"Lua",
+			"Firebase",
+			"Javascript"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ZOINAGE",
+		"registered": "2016-09-27T12:41:37 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"PHP",
+			"NodeJS"
+		]
+	},
+	{
+		"_id": 13,
+		"projectName": "Gilda Baker",
+		"tagsListFrontEnd": [
+			"Bulma",
+			"Vue",
+			"HTML",
+			"NextJS",
+			"Booststrap",
+			"ReactJS",
+			"CSS"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"Lua",
+			"PHP",
+			"Python",
+			"Javascript",
+			"NodeJS"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "TECHADE",
+		"registered": "2016-03-27T09:00:19 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"Firebase"
+		]
+	},
+	{
+		"_id": 14,
+		"projectName": "Gross Ryan",
+		"tagsListFrontEnd": [
+			"Bulma",
+			"CSS",
+			"HTML",
+			"Vue",
+			"ReactJS",
+			"Booststrap",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"Python",
+			"NodeJS",
+			"PHP",
+			"Lua",
+			"Javascript"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "CYTREX",
+		"registered": "2014-01-06T06:01:39 +02:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Bulma",
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"Firebase",
+			"Python"
+		]
+	},
+	{
+		"_id": 15,
+		"projectName": "Sanford Perez",
+		"tagsListFrontEnd": [
+			"ReactJS",
+			"NextJS",
+			"Vue",
+			"Bulma",
+			"HTML",
+			"Booststrap",
+			"CSS"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"Javascript",
+			"PHP",
+			"Python",
+			"Lua",
+			"Firebase"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ZENSUS",
+		"registered": "2017-09-02T02:52:13 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"ReactJS",
+			"NextJS"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS"
+		]
+	},
+	{
+		"_id": 16,
+		"projectName": "Jacklyn Carson",
+		"tagsListFrontEnd": [
+			"HTML",
+			"CSS",
+			"NextJS",
+			"Booststrap",
+			"ReactJS",
+			"Bulma",
+			"Vue"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"PHP",
+			"NodeJS",
+			"Firebase",
+			"Python",
+			"Javascript"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ACCIDENCY",
+		"registered": "2014-07-26T09:11:26 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"HTML",
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"Lua",
+			"PHP"
+		]
+	},
+	{
+		"_id": 17,
+		"projectName": "Johnson Douglas",
+		"tagsListFrontEnd": [
+			"ReactJS",
+			"Bulma",
+			"HTML",
+			"NextJS",
+			"Vue",
+			"Booststrap",
+			"CSS"
+		],
+		"tagsListBackEnd": [
+			"PHP",
+			"NodeJS",
+			"Lua",
+			"Javascript",
+			"Python",
+			"Firebase"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "AQUAMATE",
+		"registered": "2019-09-14T08:44:00 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"ReactJS",
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"PHP"
+		]
+	},
+	{
+		"_id": 18,
+		"projectName": "Brandi Velazquez",
+		"tagsListFrontEnd": [
+			"ReactJS",
+			"CSS",
+			"Booststrap",
+			"NextJS",
+			"Bulma",
+			"Vue",
+			"HTML"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"Python",
+			"Firebase",
+			"NodeJS",
+			"PHP",
+			"Javascript"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "HOTCAKES",
+		"registered": "2018-05-04T04:51:44 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"ReactJS"
+		],
+		"projectTagsBackEnd": [
+			"Lua"
+		]
+	},
+	{
+		"_id": 19,
+		"projectName": "Staci Wilkerson",
+		"tagsListFrontEnd": [
+			"Bulma",
+			"CSS",
+			"HTML",
+			"Vue",
+			"NextJS",
+			"Booststrap",
+			"ReactJS"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"NodeJS",
+			"Lua",
+			"PHP",
+			"Python",
+			"Javascript"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "GORGANIC",
+		"registered": "2015-08-16T11:06:45 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Bulma",
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"Firebase"
+		]
+	},
+	{
+		"_id": 20,
+		"projectName": "Foley Norton",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"Vue",
+			"CSS",
+			"NextJS",
+			"HTML",
+			"Bulma",
+			"ReactJS"
+		],
+		"tagsListBackEnd": [
+			"Javascript",
+			"PHP",
+			"Firebase",
+			"Python",
+			"Lua",
+			"NodeJS"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "MALATHION",
+		"registered": "2020-04-13T05:28:27 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap",
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"Javascript"
+		]
+	},
+	{
+		"_id": 21,
+		"projectName": "Barker Vinson",
+		"tagsListFrontEnd": [
+			"Bulma",
+			"Booststrap",
+			"Vue",
+			"ReactJS",
+			"HTML",
+			"NextJS",
+			"CSS"
+		],
+		"tagsListBackEnd": [
+			"PHP",
+			"Python",
+			"Javascript",
+			"NodeJS",
+			"Lua",
+			"Firebase"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "XINWARE",
+		"registered": "2020-06-24T01:47:09 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Bulma",
+			"Booststrap"
+		],
+		"projectTagsBackEnd": [
+			"PHP"
+		]
+	},
+	{
+		"_id": 22,
+		"projectName": "Corinne Burks",
+		"tagsListFrontEnd": [
+			"HTML",
+			"CSS",
+			"ReactJS",
+			"Bulma",
+			"NextJS",
+			"Booststrap",
+			"Vue"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"Python",
+			"PHP",
+			"Firebase",
+			"NodeJS",
+			"Javascript"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "NETUR",
+		"registered": "2017-08-21T06:55:32 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"HTML"
+		],
+		"projectTagsBackEnd": [
+			"Lua",
+			"Python"
+		]
+	},
+	{
+		"_id": 23,
+		"projectName": "Daniel Meyer",
+		"tagsListFrontEnd": [
+			"Bulma",
+			"Vue",
+			"CSS",
+			"ReactJS",
+			"HTML",
+			"Booststrap",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"PHP",
+			"Python",
+			"Firebase",
+			"Javascript",
+			"NodeJS"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "GEEKULAR",
+		"registered": "2021-12-12T11:15:31 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Bulma",
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"Lua",
+			"PHP"
+		]
+	},
+	{
+		"_id": 24,
+		"projectName": "Malone Burns",
+		"tagsListFrontEnd": [
+			"Vue",
+			"HTML",
+			"NextJS",
+			"Booststrap",
+			"CSS",
+			"Bulma",
+			"ReactJS"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"PHP",
+			"Lua",
+			"Python",
+			"Firebase",
+			"Javascript"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "CAPSCREEN",
+		"registered": "2016-11-27T02:55:15 +02:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS"
+		]
+	},
+	{
+		"_id": 25,
+		"projectName": "Jeanne William",
+		"tagsListFrontEnd": [
+			"HTML",
+			"Booststrap",
+			"Bulma",
+			"ReactJS",
+			"CSS",
+			"Vue",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"Python",
+			"NodeJS",
+			"Javascript",
+			"Lua",
+			"Firebase",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "PROTODYNE",
+		"registered": "2015-07-19T12:07:46 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"HTML",
+			"Booststrap"
+		],
+		"projectTagsBackEnd": [
+			"Python",
+			"NodeJS"
+		]
+	},
+	{
+		"_id": 26,
+		"projectName": "Ford Pace",
+		"tagsListFrontEnd": [
+			"Bulma",
+			"Vue",
+			"CSS",
+			"NextJS",
+			"Booststrap",
+			"ReactJS",
+			"HTML"
+		],
+		"tagsListBackEnd": [
+			"Python",
+			"Javascript",
+			"Lua",
+			"NodeJS",
+			"PHP",
+			"Firebase"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "PHARMEX",
+		"registered": "2014-06-03T08:26:13 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"Python",
+			"Javascript"
+		]
+	},
+	{
+		"_id": 27,
+		"projectName": "Myrna Deleon",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"ReactJS",
+			"Vue",
+			"HTML",
+			"NextJS",
+			"Bulma",
+			"CSS"
+		],
+		"tagsListBackEnd": [
+			"Javascript",
+			"Lua",
+			"Python",
+			"PHP",
+			"NodeJS",
+			"Firebase"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "STUCCO",
+		"registered": "2017-04-23T11:26:18 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap"
+		],
+		"projectTagsBackEnd": [
+			"Javascript"
+		]
+	},
+	{
+		"_id": 28,
+		"projectName": "Bridgett Cook",
+		"tagsListFrontEnd": [
+			"CSS",
+			"Booststrap",
+			"ReactJS",
+			"NextJS",
+			"Bulma",
+			"Vue",
+			"HTML"
+		],
+		"tagsListBackEnd": [
+			"Javascript",
+			"Lua",
+			"PHP",
+			"Firebase",
+			"NodeJS",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ZILLADYNE",
+		"registered": "2015-06-29T11:02:21 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"Javascript"
+		]
+	},
+	{
+		"_id": 29,
+		"projectName": "Boyer Rose",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"NextJS",
+			"HTML",
+			"Vue",
+			"CSS",
+			"ReactJS",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"Javascript",
+			"Python",
+			"Lua",
+			"NodeJS",
+			"Firebase",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "TWIGGERY",
+		"registered": "2015-09-19T01:44:48 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap"
+		],
+		"projectTagsBackEnd": [
+			"Javascript"
+		]
+	},
+	{
+		"_id": 30,
+		"projectName": "Cortez Pollard",
+		"tagsListFrontEnd": [
+			"NextJS",
+			"Vue",
+			"ReactJS",
+			"Booststrap",
+			"Bulma",
+			"CSS",
+			"HTML"
+		],
+		"tagsListBackEnd": [
+			"Python",
+			"Firebase",
+			"NodeJS",
+			"Javascript",
+			"Lua",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "COGNICODE",
+		"registered": "2017-09-29T12:01:31 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"NextJS"
+		],
+		"projectTagsBackEnd": [
+			"Python",
+			"Firebase"
+		]
+	},
+	{
+		"_id": 31,
+		"projectName": "Herminia Newton",
+		"tagsListFrontEnd": [
+			"Bulma",
+			"Booststrap",
+			"NextJS",
+			"Vue",
+			"ReactJS",
+			"CSS",
+			"HTML"
+		],
+		"tagsListBackEnd": [
+			"PHP",
+			"Python",
+			"NodeJS",
+			"Javascript",
+			"Lua",
+			"Firebase"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ZAJ",
+		"registered": "2017-08-21T09:58:43 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"PHP"
+		]
+	},
+	{
+		"_id": 32,
+		"projectName": "Bridges Schroeder",
+		"tagsListFrontEnd": [
+			"Bulma",
+			"HTML",
+			"CSS",
+			"Vue",
+			"NextJS",
+			"ReactJS",
+			"Booststrap"
+		],
+		"tagsListBackEnd": [
+			"PHP",
+			"NodeJS",
+			"Firebase",
+			"Lua",
+			"Javascript",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ZILLIDIUM",
+		"registered": "2015-11-10T09:08:53 +02:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Bulma",
+			"HTML"
+		],
+		"projectTagsBackEnd": [
+			"PHP"
+		]
+	},
+	{
+		"_id": 33,
+		"projectName": "Shannon Harvey",
+		"tagsListFrontEnd": [
+			"CSS",
+			"Bulma",
+			"Booststrap",
+			"HTML",
+			"NextJS",
+			"ReactJS",
+			"Vue"
+		],
+		"tagsListBackEnd": [
+			"PHP",
+			"Javascript",
+			"Lua",
+			"Python",
+			"Firebase",
+			"NodeJS"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "POLARIUM",
+		"registered": "2015-05-26T09:28:16 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"PHP",
+			"Javascript"
+		]
+	},
+	{
+		"_id": 34,
+		"projectName": "Marlene Mclaughlin",
+		"tagsListFrontEnd": [
+			"ReactJS",
+			"HTML",
+			"CSS",
+			"Booststrap",
+			"Bulma",
+			"Vue",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"Firebase",
+			"Python",
+			"Javascript",
+			"PHP",
+			"Lua"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "MEDCOM",
+		"registered": "2019-03-10T02:47:17 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"ReactJS"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS",
+			"Firebase"
+		]
+	},
+	{
+		"_id": 35,
+		"projectName": "Alfreda Snyder",
+		"tagsListFrontEnd": [
+			"Bulma",
+			"HTML",
+			"NextJS",
+			"Booststrap",
+			"Vue",
+			"ReactJS",
+			"CSS"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"PHP",
+			"Lua",
+			"NodeJS",
+			"Javascript",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "BEZAL",
+		"registered": "2021-02-04T01:13:53 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Bulma",
+			"HTML"
+		],
+		"projectTagsBackEnd": [
+			"Firebase",
+			"PHP"
+		]
+	},
+	{
+		"_id": 36,
+		"projectName": "Holmes Berry",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"HTML",
+			"NextJS",
+			"Bulma",
+			"Vue",
+			"CSS",
+			"ReactJS"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"PHP",
+			"Python",
+			"NodeJS",
+			"Firebase",
+			"Javascript"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ZOLAVO",
+		"registered": "2015-05-04T10:45:44 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap"
+		],
+		"projectTagsBackEnd": [
+			"Lua",
+			"PHP"
+		]
+	},
+	{
+		"_id": 37,
+		"projectName": "Golden Stuart",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"HTML",
+			"Bulma",
+			"NextJS",
+			"ReactJS",
+			"Vue",
+			"CSS"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"Javascript",
+			"PHP",
+			"Lua",
+			"NodeJS",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ISOPOP",
+		"registered": "2015-09-12T06:53:51 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap",
+			"HTML"
+		],
+		"projectTagsBackEnd": [
+			"Firebase",
+			"Javascript"
+		]
+	},
+	{
+		"_id": 38,
+		"projectName": "Gomez Pratt",
+		"tagsListFrontEnd": [
+			"NextJS",
+			"Bulma",
+			"Vue",
+			"HTML",
+			"CSS",
+			"Booststrap",
+			"ReactJS"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"Python",
+			"PHP",
+			"Firebase",
+			"Lua",
+			"Javascript"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "FROLIX",
+		"registered": "2014-07-15T03:01:11 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"NextJS",
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS",
+			"Python"
+		]
+	},
+	{
+		"_id": 39,
+		"projectName": "Moody Holt",
+		"tagsListFrontEnd": [
+			"Vue",
+			"NextJS",
+			"Bulma",
+			"CSS",
+			"ReactJS",
+			"HTML",
+			"Booststrap"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"PHP",
+			"Python",
+			"NodeJS",
+			"Javascript",
+			"Firebase"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "TETRATREX",
+		"registered": "2020-01-26T09:04:59 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"Lua",
+			"PHP"
+		]
+	},
+	{
+		"_id": 40,
+		"projectName": "Henderson Wilder",
+		"tagsListFrontEnd": [
+			"CSS",
+			"Vue",
+			"HTML",
+			"Bulma",
+			"Booststrap",
+			"NextJS",
+			"ReactJS"
+		],
+		"tagsListBackEnd": [
+			"Javascript",
+			"Firebase",
+			"NodeJS",
+			"Lua",
+			"Python",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "JASPER",
+		"registered": "2017-05-18T10:18:27 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"CSS",
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"Javascript",
+			"Firebase"
+		]
+	},
+	{
+		"_id": 41,
+		"projectName": "Eunice Best",
+		"tagsListFrontEnd": [
+			"CSS",
+			"Booststrap",
+			"HTML",
+			"Vue",
+			"Bulma",
+			"ReactJS",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"Python",
+			"PHP",
+			"Javascript",
+			"Firebase",
+			"NodeJS",
+			"Lua"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ICOLOGY",
+		"registered": "2015-10-11T11:36:37 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"CSS",
+			"Booststrap"
+		],
+		"projectTagsBackEnd": [
+			"Python",
+			"PHP"
+		]
+	},
+	{
+		"_id": 42,
+		"projectName": "Erika Key",
+		"tagsListFrontEnd": [
+			"Vue",
+			"HTML",
+			"Bulma",
+			"Booststrap",
+			"CSS",
+			"NextJS",
+			"ReactJS"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"Python",
+			"Firebase",
+			"Javascript",
+			"Lua",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "SUSTENZA",
+		"registered": "2016-11-26T04:00:27 +02:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS",
+			"Python"
+		]
+	},
+	{
+		"_id": 43,
+		"projectName": "Dorothea Weiss",
+		"tagsListFrontEnd": [
+			"Bulma",
+			"NextJS",
+			"ReactJS",
+			"HTML",
+			"Booststrap",
+			"Vue",
+			"CSS"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"PHP",
+			"Javascript",
+			"Lua",
+			"NodeJS",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "HYDROCOM",
+		"registered": "2016-12-10T07:48:28 +02:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"Firebase",
+			"PHP"
+		]
+	},
+	{
+		"_id": 44,
+		"projectName": "Cecelia Clemons",
+		"tagsListFrontEnd": [
+			"NextJS",
+			"Booststrap",
+			"ReactJS",
+			"Bulma",
+			"Vue",
+			"HTML",
+			"CSS"
+		],
+		"tagsListBackEnd": [
+			"PHP",
+			"Javascript",
+			"NodeJS",
+			"Python",
+			"Firebase",
+			"Lua"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "YOGASM",
+		"registered": "2014-10-23T10:01:55 +02:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"NextJS"
+		],
+		"projectTagsBackEnd": [
+			"PHP",
+			"Javascript"
+		]
+	},
+	{
+		"_id": 45,
+		"projectName": "Boyd Salazar",
+		"tagsListFrontEnd": [
+			"HTML",
+			"CSS",
+			"NextJS",
+			"ReactJS",
+			"Bulma",
+			"Vue",
+			"Booststrap"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"Lua",
+			"Firebase",
+			"PHP",
+			"Python",
+			"Javascript"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "GEOFARM",
+		"registered": "2020-08-16T07:17:15 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"HTML"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS"
+		]
+	},
+	{
+		"_id": 46,
+		"projectName": "Jennie Gallagher",
+		"tagsListFrontEnd": [
+			"CSS",
+			"Vue",
+			"Booststrap",
+			"ReactJS",
+			"NextJS",
+			"HTML",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"PHP",
+			"Firebase",
+			"Python",
+			"Lua",
+			"NodeJS",
+			"Javascript"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "COMTEST",
+		"registered": "2016-04-02T11:53:52 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"CSS",
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"PHP"
+		]
+	},
+	{
+		"_id": 47,
+		"projectName": "Mccullough Shelton",
+		"tagsListFrontEnd": [
+			"Vue",
+			"Booststrap",
+			"HTML",
+			"ReactJS",
+			"CSS",
+			"Bulma",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"Python",
+			"Javascript",
+			"Lua",
+			"NodeJS",
+			"Firebase",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "RONBERT",
+		"registered": "2017-03-11T09:20:57 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"Python",
+			"Javascript"
+		]
+	},
+	{
+		"_id": 48,
+		"projectName": "Mckinney Browning",
+		"tagsListFrontEnd": [
+			"CSS",
+			"Vue",
+			"NextJS",
+			"HTML",
+			"Bulma",
+			"Booststrap",
+			"ReactJS"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"Firebase",
+			"PHP",
+			"Lua",
+			"Javascript",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "FUTURITY",
+		"registered": "2016-04-17T01:44:30 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS"
+		]
+	},
+	{
+		"_id": 49,
+		"projectName": "Villarreal Sweet",
+		"tagsListFrontEnd": [
+			"NextJS",
+			"CSS",
+			"HTML",
+			"ReactJS",
+			"Booststrap",
+			"Bulma",
+			"Vue"
+		],
+		"tagsListBackEnd": [
+			"Javascript",
+			"Lua",
+			"NodeJS",
+			"Python",
+			"Firebase",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ARTIQ",
+		"registered": "2015-07-11T08:01:39 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"NextJS"
+		],
+		"projectTagsBackEnd": [
+			"Javascript",
+			"Lua"
+		]
+	},
+	{
+		"_id": 50,
+		"projectName": "Cervantes Hicks",
+		"tagsListFrontEnd": [
+			"NextJS",
+			"Booststrap",
+			"HTML",
+			"CSS",
+			"ReactJS",
+			"Bulma",
+			"Vue"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"PHP",
+			"Firebase",
+			"Javascript",
+			"NodeJS",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "QUORDATE",
+		"registered": "2015-07-31T06:57:05 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"NextJS"
+		],
+		"projectTagsBackEnd": [
+			"Lua"
+		]
+	},
+	{
+		"_id": 51,
+		"projectName": "Thornton Callahan",
+		"tagsListFrontEnd": [
+			"Vue",
+			"HTML",
+			"Booststrap",
+			"CSS",
+			"Bulma",
+			"NextJS",
+			"ReactJS"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"NodeJS",
+			"Javascript",
+			"PHP",
+			"Python",
+			"Firebase"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ENERVATE",
+		"registered": "2014-10-28T12:51:35 +02:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue",
+			"HTML"
+		],
+		"projectTagsBackEnd": [
+			"Lua",
+			"NodeJS"
+		]
+	},
+	{
+		"_id": 52,
+		"projectName": "Katharine Poole",
+		"tagsListFrontEnd": [
+			"CSS",
+			"Vue",
+			"ReactJS",
+			"Booststrap",
+			"Bulma",
+			"HTML",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"Python",
+			"Firebase",
+			"PHP",
+			"NodeJS",
+			"Javascript",
+			"Lua"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "EXODOC",
+		"registered": "2014-11-13T07:18:53 +02:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"Python",
+			"Firebase"
+		]
+	},
+	{
+		"_id": 53,
+		"projectName": "Case Lowery",
+		"tagsListFrontEnd": [
+			"Vue",
+			"CSS",
+			"NextJS",
+			"ReactJS",
+			"HTML",
+			"Booststrap",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"PHP",
+			"Firebase",
+			"Python",
+			"Lua",
+			"Javascript",
+			"NodeJS"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "DEEPENDS",
+		"registered": "2018-06-10T03:45:28 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"PHP",
+			"Firebase"
+		]
+	},
+	{
+		"_id": 54,
+		"projectName": "Justice Mays",
+		"tagsListFrontEnd": [
+			"ReactJS",
+			"Booststrap",
+			"CSS",
+			"HTML",
+			"NextJS",
+			"Vue",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"PHP",
+			"Firebase",
+			"Javascript",
+			"NodeJS",
+			"Lua",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "SUREMAX",
+		"registered": "2016-02-02T02:32:57 +02:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"ReactJS"
+		],
+		"projectTagsBackEnd": [
+			"PHP"
+		]
+	},
+	{
+		"_id": 55,
+		"projectName": "Weaver Stone",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"Vue",
+			"NextJS",
+			"Bulma",
+			"HTML",
+			"ReactJS",
+			"CSS"
+		],
+		"tagsListBackEnd": [
+			"Python",
+			"Lua",
+			"Firebase",
+			"NodeJS",
+			"PHP",
+			"Javascript"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "UPDAT",
+		"registered": "2021-10-16T01:48:02 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap"
+		],
+		"projectTagsBackEnd": [
+			"Python"
+		]
+	},
+	{
+		"_id": 56,
+		"projectName": "Denise Vargas",
+		"tagsListFrontEnd": [
+			"Vue",
+			"ReactJS",
+			"Bulma",
+			"HTML",
+			"CSS",
+			"Booststrap",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"Lua",
+			"Javascript",
+			"Python",
+			"NodeJS",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "AQUOAVO",
+		"registered": "2021-01-28T10:29:13 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"Firebase",
+			"Lua"
+		]
+	},
+	{
+		"_id": 57,
+		"projectName": "Holloway Howell",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"NextJS",
+			"CSS",
+			"ReactJS",
+			"Vue",
+			"HTML",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"Javascript",
+			"NodeJS",
+			"Python",
+			"PHP",
+			"Firebase"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "CHORIZON",
+		"registered": "2016-03-02T04:59:53 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap"
+		],
+		"projectTagsBackEnd": [
+			"Lua",
+			"Javascript"
+		]
+	},
+	{
+		"_id": 58,
+		"projectName": "Mcbride Marsh",
+		"tagsListFrontEnd": [
+			"CSS",
+			"Vue",
+			"HTML",
+			"Booststrap",
+			"NextJS",
+			"ReactJS",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"PHP",
+			"Javascript",
+			"NodeJS",
+			"Python",
+			"Lua"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "PULZE",
+		"registered": "2021-05-26T11:29:59 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"CSS",
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"Firebase"
+		]
+	},
+	{
+		"_id": 59,
+		"projectName": "Francine Lyons",
+		"tagsListFrontEnd": [
+			"Bulma",
+			"CSS",
+			"Booststrap",
+			"Vue",
+			"ReactJS",
+			"HTML",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"Firebase",
+			"PHP",
+			"Python",
+			"Javascript",
+			"NodeJS"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ZENTHALL",
+		"registered": "2019-04-15T01:33:58 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"Lua"
+		]
+	},
+	{
+		"_id": 60,
+		"projectName": "Love Merritt",
+		"tagsListFrontEnd": [
+			"NextJS",
+			"CSS",
+			"Bulma",
+			"ReactJS",
+			"Booststrap",
+			"Vue",
+			"HTML"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"PHP",
+			"Javascript",
+			"Firebase",
+			"Lua",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ZILLACON",
+		"registered": "2016-04-20T06:05:44 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"NextJS",
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS",
+			"PHP"
+		]
+	},
+	{
+		"_id": 61,
+		"projectName": "Vickie Fulton",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"Vue",
+			"NextJS",
+			"CSS",
+			"ReactJS",
+			"HTML",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"Python",
+			"PHP",
+			"Firebase",
+			"NodeJS",
+			"Javascript",
+			"Lua"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "MITROC",
+		"registered": "2017-02-24T04:05:20 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap",
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"Python",
+			"PHP"
+		]
+	},
+	{
+		"_id": 62,
+		"projectName": "Lillie Maldonado",
+		"tagsListFrontEnd": [
+			"Vue",
+			"HTML",
+			"NextJS",
+			"Bulma",
+			"Booststrap",
+			"CSS",
+			"ReactJS"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"NodeJS",
+			"Firebase",
+			"PHP",
+			"Python",
+			"Javascript"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "EWEVILLE",
+		"registered": "2018-07-23T10:22:42 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue",
+			"HTML"
+		],
+		"projectTagsBackEnd": [
+			"Lua",
+			"NodeJS"
+		]
+	},
+	{
+		"_id": 63,
+		"projectName": "Stephens Daniel",
+		"tagsListFrontEnd": [
+			"CSS",
+			"Vue",
+			"ReactJS",
+			"Bulma",
+			"HTML",
+			"Booststrap",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"PHP",
+			"Javascript",
+			"Firebase",
+			"NodeJS",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "MAGNAFONE",
+		"registered": "2021-06-11T04:32:08 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"Lua",
+			"PHP"
+		]
+	},
+	{
+		"_id": 64,
+		"projectName": "Odom Fitzgerald",
+		"tagsListFrontEnd": [
+			"Bulma",
+			"HTML",
+			"CSS",
+			"ReactJS",
+			"NextJS",
+			"Vue",
+			"Booststrap"
+		],
+		"tagsListBackEnd": [
+			"Javascript",
+			"Python",
+			"PHP",
+			"Lua",
+			"NodeJS",
+			"Firebase"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "TERSANKI",
+		"registered": "2014-09-07T01:50:34 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"Javascript"
+		]
+	},
+	{
+		"_id": 65,
+		"projectName": "Jillian Cole",
+		"tagsListFrontEnd": [
+			"Vue",
+			"Bulma",
+			"NextJS",
+			"CSS",
+			"ReactJS",
+			"HTML",
+			"Booststrap"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"PHP",
+			"Python",
+			"Javascript",
+			"NodeJS",
+			"Firebase"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ACRUEX",
+		"registered": "2016-08-14T10:04:56 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue",
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"Lua"
+		]
+	},
+	{
+		"_id": 66,
+		"projectName": "Elliott Sandoval",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"ReactJS",
+			"HTML",
+			"Bulma",
+			"NextJS",
+			"Vue",
+			"CSS"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"PHP",
+			"Python",
+			"Firebase",
+			"NodeJS",
+			"Javascript"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "XPLOR",
+		"registered": "2020-12-29T07:28:53 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap"
+		],
+		"projectTagsBackEnd": [
+			"Lua",
+			"PHP"
+		]
+	},
+	{
+		"_id": 67,
+		"projectName": "Patty Bullock",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"NextJS",
+			"HTML",
+			"ReactJS",
+			"Bulma",
+			"Vue",
+			"CSS"
+		],
+		"tagsListBackEnd": [
+			"PHP",
+			"NodeJS",
+			"Firebase",
+			"Python",
+			"Javascript",
+			"Lua"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "QUIZMO",
+		"registered": "2015-07-12T11:59:34 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap",
+			"NextJS"
+		],
+		"projectTagsBackEnd": [
+			"PHP",
+			"NodeJS"
+		]
+	},
+	{
+		"_id": 68,
+		"projectName": "April Tyler",
+		"tagsListFrontEnd": [
+			"HTML",
+			"NextJS",
+			"CSS",
+			"Vue",
+			"Bulma",
+			"ReactJS",
+			"Booststrap"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"Firebase",
+			"Lua",
+			"PHP",
+			"Python",
+			"Javascript"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "APPLIDEC",
+		"registered": "2018-12-12T08:17:52 +02:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"HTML"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS",
+			"Firebase"
+		]
+	},
+	{
+		"_id": 69,
+		"projectName": "Glenn Buck",
+		"tagsListFrontEnd": [
+			"NextJS",
+			"Vue",
+			"HTML",
+			"CSS",
+			"Bulma",
+			"Booststrap",
+			"ReactJS"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"Javascript",
+			"NodeJS",
+			"Python",
+			"Lua",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "HANDSHAKE",
+		"registered": "2020-09-05T06:39:54 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"NextJS"
+		],
+		"projectTagsBackEnd": [
+			"Firebase"
+		]
+	},
+	{
+		"_id": 70,
+		"projectName": "Eileen Hanson",
+		"tagsListFrontEnd": [
+			"ReactJS",
+			"CSS",
+			"HTML",
+			"Booststrap",
+			"Vue",
+			"NextJS",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"Javascript",
+			"Python",
+			"NodeJS",
+			"Lua",
+			"PHP",
+			"Firebase"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "BRISTO",
+		"registered": "2020-03-24T09:57:15 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"ReactJS",
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"Javascript",
+			"Python"
+		]
+	},
+	{
+		"_id": 71,
+		"projectName": "James Willis",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"Bulma",
+			"CSS",
+			"NextJS",
+			"Vue",
+			"ReactJS",
+			"HTML"
+		],
+		"tagsListBackEnd": [
+			"Javascript",
+			"Python",
+			"NodeJS",
+			"Firebase",
+			"Lua",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "EXOSTREAM",
+		"registered": "2017-11-02T10:21:50 +02:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap",
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"Javascript",
+			"Python"
+		]
+	},
+	{
+		"_id": 72,
+		"projectName": "Dennis Stafford",
+		"tagsListFrontEnd": [
+			"HTML",
+			"Vue",
+			"ReactJS",
+			"Bulma",
+			"NextJS",
+			"CSS",
+			"Booststrap"
+		],
+		"tagsListBackEnd": [
+			"PHP",
+			"Firebase",
+			"Lua",
+			"NodeJS",
+			"Javascript",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "COMCUR",
+		"registered": "2021-09-05T07:05:11 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"HTML"
+		],
+		"projectTagsBackEnd": [
+			"PHP"
+		]
+	},
+	{
+		"_id": 73,
+		"projectName": "Chambers Thompson",
+		"tagsListFrontEnd": [
+			"NextJS",
+			"Bulma",
+			"Booststrap",
+			"CSS",
+			"Vue",
+			"ReactJS",
+			"HTML"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"Firebase",
+			"Python",
+			"Javascript",
+			"NodeJS",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "TALKOLA",
+		"registered": "2016-05-29T05:33:31 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"NextJS",
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"Lua",
+			"Firebase"
+		]
+	},
+	{
+		"_id": 74,
+		"projectName": "Janis Small",
+		"tagsListFrontEnd": [
+			"NextJS",
+			"HTML",
+			"ReactJS",
+			"Vue",
+			"CSS",
+			"Bulma",
+			"Booststrap"
+		],
+		"tagsListBackEnd": [
+			"Python",
+			"Javascript",
+			"NodeJS",
+			"Firebase",
+			"Lua",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "SYBIXTEX",
+		"registered": "2016-05-01T05:46:48 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"NextJS"
+		],
+		"projectTagsBackEnd": [
+			"Python",
+			"Javascript"
+		]
+	},
+	{
+		"_id": 75,
+		"projectName": "Flossie Walters",
+		"tagsListFrontEnd": [
+			"ReactJS",
+			"Bulma",
+			"CSS",
+			"Vue",
+			"Booststrap",
+			"NextJS",
+			"HTML"
+		],
+		"tagsListBackEnd": [
+			"Javascript",
+			"Firebase",
+			"PHP",
+			"Lua",
+			"NodeJS",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ANOCHA",
+		"registered": "2015-10-25T07:11:11 +02:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"ReactJS",
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"Javascript"
+		]
+	},
+	{
+		"_id": 76,
+		"projectName": "Alexandra Lloyd",
+		"tagsListFrontEnd": [
+			"ReactJS",
+			"CSS",
+			"HTML",
+			"Booststrap",
+			"Vue",
+			"NextJS",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"Javascript",
+			"Firebase",
+			"PHP",
+			"Python",
+			"Lua"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "SPRINGBEE",
+		"registered": "2021-11-29T04:31:38 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"ReactJS",
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS",
+			"Javascript"
+		]
+	},
+	{
+		"_id": 77,
+		"projectName": "Esperanza Murphy",
+		"tagsListFrontEnd": [
+			"HTML",
+			"Booststrap",
+			"Bulma",
+			"Vue",
+			"NextJS",
+			"CSS",
+			"ReactJS"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"Python",
+			"Firebase",
+			"PHP",
+			"Javascript",
+			"Lua"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "EXOSPACE",
+		"registered": "2017-08-01T06:43:04 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"HTML",
+			"Booststrap"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS",
+			"Python"
+		]
+	},
+	{
+		"_id": 78,
+		"projectName": "Barbra Valencia",
+		"tagsListFrontEnd": [
+			"Vue",
+			"ReactJS",
+			"CSS",
+			"Booststrap",
+			"HTML",
+			"Bulma",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"Javascript",
+			"PHP",
+			"Python",
+			"Firebase",
+			"NodeJS"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ZOXY",
+		"registered": "2020-09-23T09:01:52 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue",
+			"ReactJS"
+		],
+		"projectTagsBackEnd": [
+			"Lua"
+		]
+	},
+	{
+		"_id": 79,
+		"projectName": "Park Oliver",
+		"tagsListFrontEnd": [
+			"ReactJS",
+			"Bulma",
+			"Vue",
+			"HTML",
+			"CSS",
+			"Booststrap",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"NodeJS",
+			"Python",
+			"Firebase",
+			"Javascript",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ECLIPSENT",
+		"registered": "2016-04-04T11:33:33 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"ReactJS"
+		],
+		"projectTagsBackEnd": [
+			"Lua",
+			"NodeJS"
+		]
+	},
+	{
+		"_id": 80,
+		"projectName": "Roach Molina",
+		"tagsListFrontEnd": [
+			"Vue",
+			"CSS",
+			"ReactJS",
+			"Booststrap",
+			"HTML",
+			"Bulma",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"Firebase",
+			"Javascript",
+			"Lua",
+			"PHP",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "MAGMINA",
+		"registered": "2017-05-02T09:46:04 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS",
+			"Firebase"
+		]
+	},
+	{
+		"_id": 81,
+		"projectName": "Leola Alexander",
+		"tagsListFrontEnd": [
+			"Bulma",
+			"CSS",
+			"Vue",
+			"HTML",
+			"Booststrap",
+			"NextJS",
+			"ReactJS"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"Javascript",
+			"PHP",
+			"NodeJS",
+			"Firebase",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "COMDOM",
+		"registered": "2019-10-17T02:46:58 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"Lua",
+			"Javascript"
+		]
+	},
+	{
+		"_id": 82,
+		"projectName": "Browning Mcneil",
+		"tagsListFrontEnd": [
+			"HTML",
+			"Booststrap",
+			"NextJS",
+			"CSS",
+			"Bulma",
+			"Vue",
+			"ReactJS"
+		],
+		"tagsListBackEnd": [
+			"Python",
+			"Javascript",
+			"NodeJS",
+			"PHP",
+			"Firebase",
+			"Lua"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ROUGHIES",
+		"registered": "2018-06-14T11:10:37 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"HTML",
+			"Booststrap"
+		],
+		"projectTagsBackEnd": [
+			"Python",
+			"Javascript"
+		]
+	},
+	{
+		"_id": 83,
+		"projectName": "Corina Blackwell",
+		"tagsListFrontEnd": [
+			"NextJS",
+			"CSS",
+			"Vue",
+			"HTML",
+			"ReactJS",
+			"Bulma",
+			"Booststrap"
+		],
+		"tagsListBackEnd": [
+			"PHP",
+			"Python",
+			"Javascript",
+			"NodeJS",
+			"Firebase",
+			"Lua"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "BARKARAMA",
+		"registered": "2019-08-16T11:40:04 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"NextJS",
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"PHP",
+			"Python"
+		]
+	},
+	{
+		"_id": 84,
+		"projectName": "Garrett Bailey",
+		"tagsListFrontEnd": [
+			"HTML",
+			"NextJS",
+			"CSS",
+			"Booststrap",
+			"Vue",
+			"ReactJS",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"PHP",
+			"Javascript",
+			"Lua",
+			"NodeJS",
+			"Firebase",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "QUILM",
+		"registered": "2015-10-26T03:40:43 +02:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"HTML"
+		],
+		"projectTagsBackEnd": [
+			"PHP"
+		]
+	},
+	{
+		"_id": 85,
+		"projectName": "Lois Young",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"ReactJS",
+			"Bulma",
+			"NextJS",
+			"HTML",
+			"Vue",
+			"CSS"
+		],
+		"tagsListBackEnd": [
+			"Python",
+			"PHP",
+			"Firebase",
+			"Javascript",
+			"NodeJS",
+			"Lua"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ARTWORLDS",
+		"registered": "2014-11-22T09:09:48 +02:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap",
+			"ReactJS"
+		],
+		"projectTagsBackEnd": [
+			"Python",
+			"PHP"
+		]
+	},
+	{
+		"_id": 86,
+		"projectName": "Salas Roberts",
+		"tagsListFrontEnd": [
+			"HTML",
+			"ReactJS",
+			"NextJS",
+			"CSS",
+			"Bulma",
+			"Booststrap",
+			"Vue"
+		],
+		"tagsListBackEnd": [
+			"Python",
+			"Lua",
+			"Firebase",
+			"NodeJS",
+			"PHP",
+			"Javascript"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "APEXIA",
+		"registered": "2014-03-10T08:48:02 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"HTML"
+		],
+		"projectTagsBackEnd": [
+			"Python"
+		]
+	},
+	{
+		"_id": 87,
+		"projectName": "Cristina Summers",
+		"tagsListFrontEnd": [
+			"CSS",
+			"Bulma",
+			"Booststrap",
+			"HTML",
+			"Vue",
+			"ReactJS",
+			"NextJS"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"NodeJS",
+			"Lua",
+			"PHP",
+			"Javascript",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "UNIWORLD",
+		"registered": "2017-09-13T06:51:30 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"Firebase"
+		]
+	},
+	{
+		"_id": 88,
+		"projectName": "Lorena Massey",
+		"tagsListFrontEnd": [
+			"Bulma",
+			"NextJS",
+			"CSS",
+			"HTML",
+			"Vue",
+			"ReactJS",
+			"Booststrap"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"Javascript",
+			"Python",
+			"NodeJS",
+			"PHP",
+			"Firebase"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "BICOL",
+		"registered": "2019-10-07T10:17:09 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"Lua"
+		]
+	},
+	{
+		"_id": 89,
+		"projectName": "Powell Odonnell",
+		"tagsListFrontEnd": [
+			"ReactJS",
+			"CSS",
+			"NextJS",
+			"HTML",
+			"Booststrap",
+			"Vue",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"Lua",
+			"PHP",
+			"Javascript",
+			"Python",
+			"NodeJS",
+			"Firebase"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "GINK",
+		"registered": "2020-01-07T07:05:25 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"ReactJS",
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"Lua",
+			"PHP"
+		]
+	},
+	{
+		"_id": 90,
+		"projectName": "Pittman Fox",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"ReactJS",
+			"HTML",
+			"Bulma",
+			"NextJS",
+			"Vue",
+			"CSS"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"Lua",
+			"Javascript",
+			"NodeJS",
+			"Python",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "BULLJUICE",
+		"registered": "2014-04-17T06:12:59 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap",
+			"ReactJS"
+		],
+		"projectTagsBackEnd": [
+			"Firebase",
+			"Lua"
+		]
+	},
+	{
+		"_id": 91,
+		"projectName": "Leona Slater",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"Bulma",
+			"CSS",
+			"HTML",
+			"ReactJS",
+			"NextJS",
+			"Vue"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"Javascript",
+			"Lua",
+			"Firebase",
+			"Python",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "SURELOGIC",
+		"registered": "2021-08-19T06:53:54 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap",
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS"
+		]
+	},
+	{
+		"_id": 92,
+		"projectName": "Nona Hutchinson",
+		"tagsListFrontEnd": [
+			"Vue",
+			"CSS",
+			"NextJS",
+			"HTML",
+			"ReactJS",
+			"Booststrap",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"Python",
+			"Firebase",
+			"Javascript",
+			"Lua",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "GEEKKO",
+		"registered": "2016-12-02T12:54:20 +02:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS"
+		]
+	},
+	{
+		"_id": 93,
+		"projectName": "Kasey Hodge",
+		"tagsListFrontEnd": [
+			"Vue",
+			"Booststrap",
+			"HTML",
+			"ReactJS",
+			"CSS",
+			"NextJS",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"Javascript",
+			"Firebase",
+			"Lua",
+			"Python",
+			"NodeJS",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "CYTRAK",
+		"registered": "2014-02-17T08:17:44 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"Javascript"
+		]
+	},
+	{
+		"_id": 94,
+		"projectName": "Mccarty Price",
+		"tagsListFrontEnd": [
+			"Vue",
+			"HTML",
+			"NextJS",
+			"CSS",
+			"ReactJS",
+			"Booststrap",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"Python",
+			"Firebase",
+			"PHP",
+			"Lua",
+			"Javascript",
+			"NodeJS"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ZAGGLES",
+		"registered": "2019-09-03T06:40:13 +03:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue",
+			"HTML"
+		],
+		"projectTagsBackEnd": [
+			"Python",
+			"Firebase"
+		]
+	},
+	{
+		"_id": 95,
+		"projectName": "Opal Mann",
+		"tagsListFrontEnd": [
+			"Bulma",
+			"ReactJS",
+			"Booststrap",
+			"NextJS",
+			"CSS",
+			"Vue",
+			"HTML"
+		],
+		"tagsListBackEnd": [
+			"Javascript",
+			"Python",
+			"Lua",
+			"PHP",
+			"NodeJS",
+			"Firebase"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "PEARLESSA",
+		"registered": "2018-11-21T08:19:34 +02:00",
+		"isOpenSource": false,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"Javascript"
+		]
+	},
+	{
+		"_id": 96,
+		"projectName": "Herman Knapp",
+		"tagsListFrontEnd": [
+			"Vue",
+			"Bulma",
+			"NextJS",
+			"CSS",
+			"ReactJS",
+			"Booststrap",
+			"HTML"
+		],
+		"tagsListBackEnd": [
+			"NodeJS",
+			"Lua",
+			"Firebase",
+			"PHP",
+			"Javascript",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "RODEOMAD",
+		"registered": "2018-06-07T07:13:41 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Vue"
+		],
+		"projectTagsBackEnd": [
+			"NodeJS"
+		]
+	},
+	{
+		"_id": 97,
+		"projectName": "Estella Hayden",
+		"tagsListFrontEnd": [
+			"Booststrap",
+			"Bulma",
+			"NextJS",
+			"Vue",
+			"ReactJS",
+			"CSS",
+			"HTML"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"NodeJS",
+			"Javascript",
+			"Lua",
+			"Python",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "SCENTRIC",
+		"registered": "2019-01-20T04:13:15 +02:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Booststrap",
+			"Bulma"
+		],
+		"projectTagsBackEnd": [
+			"Firebase"
+		]
+	},
+	{
+		"_id": 98,
+		"projectName": "Marcie Francis",
+		"tagsListFrontEnd": [
+			"CSS",
+			"ReactJS",
+			"Vue",
+			"Booststrap",
+			"NextJS",
+			"HTML",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"Javascript",
+			"Firebase",
+			"Python",
+			"NodeJS",
+			"Lua",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "ARCTIQ",
+		"registered": "2021-12-21T03:03:05 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"CSS"
+		],
+		"projectTagsBackEnd": [
+			"Javascript",
+			"Firebase"
+		]
+	},
+	{
+		"_id": 99,
+		"projectName": "Jeanette Moran",
+		"tagsListFrontEnd": [
+			"Bulma",
+			"NextJS",
+			"CSS",
+			"HTML",
+			"ReactJS",
+			"Booststrap",
+			"Vue"
+		],
+		"tagsListBackEnd": [
+			"Firebase",
+			"PHP",
+			"Lua",
+			"NodeJS",
+			"Javascript",
+			"Python"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "INSURESYS",
+		"registered": "2016-07-30T12:23:36 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"Bulma",
+			"NextJS"
+		],
+		"projectTagsBackEnd": [
+			"Firebase"
+		]
+	},
+	{
+		"_id": 100,
+		"projectName": "Hamilton Nguyen",
+		"tagsListFrontEnd": [
+			"CSS",
+			"ReactJS",
+			"NextJS",
+			"HTML",
+			"Vue",
+			"Booststrap",
+			"Bulma"
+		],
+		"tagsListBackEnd": [
+			"Python",
+			"Lua",
+			"Javascript",
+			"Firebase",
+			"NodeJS",
+			"PHP"
+		],
+		"picture": "http://placehold.it/32x32",
+		"company": "COMTOURS",
+		"registered": "2017-03-11T10:35:38 +03:00",
+		"isOpenSource": true,
+		"githubProjectURL": "https://github.com/MER4K/MER4K/",
+		"businessLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1024px-Google_%22G%22_Logo.svg.png",
+		"businessURL": "https://www.google.com/",
+		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
+		"projectTagsFrontEnd": [
+			"CSS",
+			"ReactJS"
+		],
+		"projectTagsBackEnd": [
+			"Python",
+			"Lua"
+		]
+	}
+]
