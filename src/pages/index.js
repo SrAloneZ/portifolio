@@ -37,14 +37,14 @@ export default function Home(props) {
 }
 
 export async function getStaticProps() {
-	const res = await fetch('http://localhost:4000/api/testimonials.json')
+	const res = await fetch('https://raw.githubusercontent.com/ricardo-node/portifolio/main/public/api/testimonials.json')
 	const posts = await res.json()
 	/*return {
 		props: {
 			posts,
 		},
 	}*/
-	const resProjects = await fetch('http://localhost:4000/api/projects.json')
+	const resProjects = await fetch('https://raw.githubusercontent.com/ricardo-node/portifolio/main/public/api/projects.json')
 	const projects = await resProjects.json()
 
 	return {
