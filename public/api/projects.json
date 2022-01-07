@@ -19,7 +19,7 @@
 			"NodeJS",
 			"Python"
 		],
-		"picture": "assets/clientes-img.svg",
+		"picture": "https://i1.wp.com/wp.aplicativosbr.guru/wp-content/uploads/2019/08/aw.png?resize=640%2C640&ssl=1",
 		"company": "ENERFORCE",
 		"registered": "2016-03-21T12:57:11 +03:00",
 		"isOpenSource": false,
@@ -92,7 +92,7 @@
 			"Javascript",
 			"Python"
 		],
-		"picture": "https://play-lh.googleusercontent.com/NQdOXslqg1dhiSGjJQ-q0KHzVlXgfJCN7g6YvK9mn9yes0q39yg_UQnO0IosdUkni8Q",
+		"picture": "https://www.ejogosonline.com.br/wp-content/uploads/thumbs/gamedistribution/S/space-shooter.jpeg",
 		"company": "AVENETRO",
 		"registered": "2016-12-30T05:30:48 +02:00",
 		"isOpenSource": true,
@@ -128,18 +128,19 @@
 			"Python",
 			"NodeJS"
 		],
-		"picture": "assets/clientes-img.svg",
-		"company": "ZIZZLE",
+		"picture": "https://www.dinamize.com.br/wp-content/uploads/2019/05/o-que-%C3%A9-chatbot.png",
+		"company": "Nossas Estrelas",
 		"registered": "2021-10-18T02:46:59 +03:00",
 		"isOpenSource": false,
 		"githubProjectURL": "https://github.com/ricardo-node/ricardo-node/",
 		"businessLogo": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.30808-6/220818327_4219670974752592_6953195479230051769_n.png?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=povHrkgYkjUAX9hiYps&_nc_ht=scontent-gig2-1.xx&oh=00_AT8U37rhQPTtkrIA07MrufoH3IEMqplK5fwRhs7zMWr_EQ&oe=61DD3E42",
-		"businessURL": "https://www.google.com/",
+		"businessURL": "https://www.nossasestrelas.com.br/",
 		"message": "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade.",
 		"projectTagsFrontEnd": [],
 		"projectTagsBackEnd": [
 			"NodeJS",
-			"VenonBOT API"
+			"VenonBOT API",
+			"Dialogflow"
 		]
 	},
 	{
@@ -162,7 +163,7 @@
 			"Lua",
 			"Python"
 		],
-		"picture": "assets/clientes-img.svg",
+		"picture": "https://www.confidencecambio.com.br/wp-content/uploads/2020/10/lp-especie.jpg",
 		"company": "ZERBINA",
 		"registered": "2021-03-27T05:46:55 +03:00",
 		"isOpenSource": false,
@@ -197,7 +198,7 @@
 			"Lua",
 			"PHP"
 		],
-		"picture": "assets/clientes-img.svg",
+		"picture": "https://grupoportfolio.com.br/portfolio-formacao/wp-content/uploads/sites/4/2021/05/BANNER-SITE-TRILHA-AGILE-400x400.png",
 		"company": "EXOZENT",
 		"registered": "2017-05-01T08:08:03 +03:00",
 		"isOpenSource": false,
@@ -233,7 +234,7 @@
 			"PHP",
 			"NodeJS"
 		],
-		"picture": "assets/clientes-img.svg",
+		"picture": "https://i.imgur.com/uv0KILy.png",
 		"company": "Nossas Estrelas",
 		"registered": "2019-11-04T02:45:48 +03:00",
 		"isOpenSource": false,
@@ -251,7 +252,7 @@
 	},
 	{
 		"_id": 8,
-		"projectName": "Davenport Graham",
+		"projectName": "Editor do Canva",
 		"tagsListFrontEnd": [
 			"Booststrap",
 			"CSS",
@@ -269,7 +270,7 @@
 			"PHP",
 			"NodeJS"
 		],
-		"picture": "assets/clientes-img.svg",
+		"picture": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/7a/c2/c7/7ac2c7c4-4058-e9db-9e67-663217910415/source/256x256bb.jpg",
 		"company": "GLUID",
 		"registered": "2019-10-29T10:29:12 +03:00",
 		"isOpenSource": true,
@@ -287,7 +288,7 @@
 	},
 	{
 		"_id": 9,
-		"projectName": "Jeri Sparks",
+		"projectName": "Gerador de Textos Neurais",
 		"tagsListFrontEnd": [
 			"NextJS",
 			"HTML",
@@ -305,7 +306,7 @@
 			"Firebase",
 			"NodeJS"
 		],
-		"picture": "assets/clientes-img.svg",
+		"picture": "https://nova-escola-producao.s3.amazonaws.com/VpwdNrVtyUwVZETEVgcesdptGx7SD7GMfqtufD4cVf5yPTcYdxdkz4w8HM4j/gettyimages-700494568.jpg",
 		"company": "ESCHOIR",
 		"registered": "2018-06-13T07:58:13 +03:00",
 		"isOpenSource": false,
@@ -317,12 +318,12 @@
 			"NextJS"
 		],
 		"projectTagsBackEnd": [
-			"Python"
+			"NodeJS"
 		]
 	},
 	{
 		"_id": 10,
-		"projectName": "Combs Cannon",
+		"projectName": "Cronômetro de Pomodoro",
 		"tagsListFrontEnd": [
 			"CSS",
 			"NextJS",
@@ -340,7 +341,7 @@
 			"NodeJS",
 			"PHP"
 		],
-		"picture": "assets/clientes-img.svg",
+		"picture": "https://ae01.alicdn.com/kf/HTB1VeChMVXXXXc.XFXXq6xXFXXXy/Tomato-timer-Pomodoro-Time-Management-mute-silent-25-minutes-5-live.jpg",
 		"company": "EVENTAGE",
 		"registered": "2021-07-05T12:17:37 +03:00",
 		"isOpenSource": false,

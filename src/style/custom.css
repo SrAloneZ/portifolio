@@ -319,8 +319,11 @@ body {
   overflow: hidden;
   position: relative;
 
-  width: 250px;
-  height: 250px;
+  max-width: 300px;
+  max-height: 300px;
+
+  min-width: 300px;
+  min-height: 300px;
 }
 
 .card-image:hover {

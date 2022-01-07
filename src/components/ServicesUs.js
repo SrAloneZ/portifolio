@@ -16,7 +16,7 @@ const ServicesUs = (props) => {
 					))}
 				</div>
 				<div className="row grid">
-					{listItems(props.projects, 1, 24).map((test) => (
+					{listItems(props.projects, 1, 12).map((test) => (
 						<div key={test._id.toString()} className={'grid-sizer grid-item col-lg-3 mb-3 col-4 element-item ' + (((test.projectTagsBackEnd).toString()).replace(/\,/g, ' ')).toLowerCase() + " " + (((test.projectTagsFrontEnd).toString()).replace(/\,/g, ' ')).toLowerCase()}>
 							<img src={test.picture} className="card-image img-fluid mb-2" />
 							<div className="card-body">
