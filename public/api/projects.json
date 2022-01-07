@@ -38,7 +38,7 @@
 	},
 	{
 		"_id": 2,
-		"projectName": "Jogo da Memória (Genius)",
+		"projectName": "Jogo da Memória",
 		"tagsListFrontEnd": [
 			"HTML",
 			"Bulma",
@@ -56,7 +56,7 @@
 			"Lua",
 			"Firebase"
 		],
-		"picture": "assets/clientes-img.svg",
+		"picture": "http://i.pinimg.com/236x/9d/93/e8/9d93e88c8c754f9e85a67c0d0377d2b4--memory-games-kid-activities.jpg",
 		"company": "PAPRIKUT",
 		"registered": "2016-10-26T04:26:59 +02:00",
 		"isOpenSource": true,

@@ -18,10 +18,10 @@ const ServicesUs = (props) => {
 				<div className="row grid">
 					{listItems(props.projects, 1, 24).map((test) => (
 						<div key={test._id.toString()} className={'grid-sizer grid-item col-lg-3 mb-3 col-4 element-item ' + (((test.projectTagsBackEnd).toString()).replace(/\,/g, ' ')).toLowerCase() + " " + (((test.projectTagsFrontEnd).toString()).replace(/\,/g, ' ')).toLowerCase()}>
-							<img src={test.picture} className="card-image img-fluid mb-2" />
+							<img src='{test.picture}' className="card-image img-fluid mb-2" />
 							<div className="card-body">
 								<div className="card-content--title mb-1">
-									<h6 className="card-title">{test._id.toString()} - {test.projectName}</h6>
+									<h6 className="card-title">{test.projectName}</h6>
 									<div className="app-icon">
 										{test.isOpenSource === true ?
 											<a href={test.githubProject}><svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="app-icon--github">
