@@ -319,7 +319,8 @@ body {
   overflow: hidden;
   position: relative;
 
-  width: 100%;
+  width: 250px;
+  height: 250px;
 }
 
 .card-image:hover {
