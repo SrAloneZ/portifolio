@@ -41,8 +41,7 @@ const Footer = () => {
           <div className="row">
             <div
               className="col-md-6 align-self-center text-md-left text-center">
-              <img src="assets/logo.svg"
-                className="img-fluid" />
+
             </div>
             <div
               className="col-md-6 align-self-center text-right">

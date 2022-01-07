@@ -6,9 +6,7 @@ const Navba = () => {
             <nav
                 className="navbar navbar-expand-lg navbar-light justify-content-between"
             >
-                <a className="navbar-brand" href="#">
-                    <img src="assets/logo.svg" className="img-fluid" />
-                </a>
+
                 <button
                     className="navbar-toggler"
                     type="button"
