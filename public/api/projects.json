@@ -19,7 +19,7 @@
 			"NodeJS",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ENERFORCE",
 		"registered": "2016-03-21T12:57:11 +03:00",
 		"isOpenSource": false,
@@ -55,7 +55,7 @@
 			"Lua",
 			"Firebase"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "PAPRIKUT",
 		"registered": "2016-10-26T04:26:59 +02:00",
 		"isOpenSource": true,
@@ -91,7 +91,7 @@
 			"Javascript",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "AVENETRO",
 		"registered": "2016-12-30T05:30:48 +02:00",
 		"isOpenSource": true,
@@ -127,7 +127,7 @@
 			"Python",
 			"NodeJS"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ZIZZLE",
 		"registered": "2021-10-18T02:46:59 +03:00",
 		"isOpenSource": true,
@@ -164,7 +164,7 @@
 			"Lua",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ZERBINA",
 		"registered": "2021-03-27T05:46:55 +03:00",
 		"isOpenSource": false,
@@ -199,7 +199,7 @@
 			"Lua",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "EXOZENT",
 		"registered": "2017-05-01T08:08:03 +03:00",
 		"isOpenSource": false,
@@ -235,7 +235,7 @@
 			"PHP",
 			"NodeJS"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "REVERSUS",
 		"registered": "2019-11-04T02:45:48 +03:00",
 		"isOpenSource": false,
@@ -272,7 +272,7 @@
 			"PHP",
 			"NodeJS"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "GLUID",
 		"registered": "2019-10-29T10:29:12 +03:00",
 		"isOpenSource": true,
@@ -308,7 +308,7 @@
 			"Firebase",
 			"NodeJS"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ESCHOIR",
 		"registered": "2018-06-13T07:58:13 +03:00",
 		"isOpenSource": false,
@@ -343,7 +343,7 @@
 			"NodeJS",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "EVENTAGE",
 		"registered": "2021-07-05T12:17:37 +03:00",
 		"isOpenSource": false,
@@ -378,7 +378,7 @@
 			"Javascript",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "INTRADISK",
 		"registered": "2020-12-19T08:39:58 +03:00",
 		"isOpenSource": true,
@@ -414,7 +414,7 @@
 			"Firebase",
 			"Javascript"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ZOINAGE",
 		"registered": "2016-09-27T12:41:37 +03:00",
 		"isOpenSource": false,
@@ -450,7 +450,7 @@
 			"Javascript",
 			"NodeJS"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "TECHADE",
 		"registered": "2016-03-27T09:00:19 +03:00",
 		"isOpenSource": false,
@@ -485,7 +485,7 @@
 			"Lua",
 			"Javascript"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "CYTREX",
 		"registered": "2014-01-06T06:01:39 +02:00",
 		"isOpenSource": false,
@@ -522,7 +522,7 @@
 			"Lua",
 			"Firebase"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ZENSUS",
 		"registered": "2017-09-02T02:52:13 +03:00",
 		"isOpenSource": true,
@@ -558,7 +558,7 @@
 			"Python",
 			"Javascript"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ACCIDENCY",
 		"registered": "2014-07-26T09:11:26 +03:00",
 		"isOpenSource": false,
@@ -595,7 +595,7 @@
 			"Python",
 			"Firebase"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "AQUAMATE",
 		"registered": "2019-09-14T08:44:00 +03:00",
 		"isOpenSource": false,
@@ -631,7 +631,7 @@
 			"PHP",
 			"Javascript"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "HOTCAKES",
 		"registered": "2018-05-04T04:51:44 +03:00",
 		"isOpenSource": true,
@@ -666,7 +666,7 @@
 			"Python",
 			"Javascript"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "GORGANIC",
 		"registered": "2015-08-16T11:06:45 +03:00",
 		"isOpenSource": true,
@@ -702,7 +702,7 @@
 			"Lua",
 			"NodeJS"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "MALATHION",
 		"registered": "2020-04-13T05:28:27 +03:00",
 		"isOpenSource": false,
@@ -738,7 +738,7 @@
 			"Lua",
 			"Firebase"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "XINWARE",
 		"registered": "2020-06-24T01:47:09 +03:00",
 		"isOpenSource": true,
@@ -774,7 +774,7 @@
 			"NodeJS",
 			"Javascript"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "NETUR",
 		"registered": "2017-08-21T06:55:32 +03:00",
 		"isOpenSource": true,
@@ -810,7 +810,7 @@
 			"Javascript",
 			"NodeJS"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "GEEKULAR",
 		"registered": "2021-12-12T11:15:31 +03:00",
 		"isOpenSource": true,
@@ -847,7 +847,7 @@
 			"Firebase",
 			"Javascript"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "CAPSCREEN",
 		"registered": "2016-11-27T02:55:15 +02:00",
 		"isOpenSource": false,
@@ -882,7 +882,7 @@
 			"Firebase",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "PROTODYNE",
 		"registered": "2015-07-19T12:07:46 +03:00",
 		"isOpenSource": false,
@@ -919,7 +919,7 @@
 			"PHP",
 			"Firebase"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "PHARMEX",
 		"registered": "2014-06-03T08:26:13 +03:00",
 		"isOpenSource": false,
@@ -955,7 +955,7 @@
 			"NodeJS",
 			"Firebase"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "STUCCO",
 		"registered": "2017-04-23T11:26:18 +03:00",
 		"isOpenSource": true,
@@ -990,7 +990,7 @@
 			"NodeJS",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ZILLADYNE",
 		"registered": "2015-06-29T11:02:21 +03:00",
 		"isOpenSource": false,
@@ -1025,7 +1025,7 @@
 			"Firebase",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "TWIGGERY",
 		"registered": "2015-09-19T01:44:48 +03:00",
 		"isOpenSource": true,
@@ -1060,7 +1060,7 @@
 			"Lua",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "COGNICODE",
 		"registered": "2017-09-29T12:01:31 +03:00",
 		"isOpenSource": false,
@@ -1096,7 +1096,7 @@
 			"Lua",
 			"Firebase"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ZAJ",
 		"registered": "2017-08-21T09:58:43 +03:00",
 		"isOpenSource": false,
@@ -1131,7 +1131,7 @@
 			"Javascript",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ZILLIDIUM",
 		"registered": "2015-11-10T09:08:53 +02:00",
 		"isOpenSource": false,
@@ -1167,7 +1167,7 @@
 			"Firebase",
 			"NodeJS"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "POLARIUM",
 		"registered": "2015-05-26T09:28:16 +03:00",
 		"isOpenSource": true,
@@ -1203,7 +1203,7 @@
 			"PHP",
 			"Lua"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "MEDCOM",
 		"registered": "2019-03-10T02:47:17 +03:00",
 		"isOpenSource": true,
@@ -1239,7 +1239,7 @@
 			"Javascript",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "BEZAL",
 		"registered": "2021-02-04T01:13:53 +03:00",
 		"isOpenSource": true,
@@ -1276,7 +1276,7 @@
 			"Firebase",
 			"Javascript"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ZOLAVO",
 		"registered": "2015-05-04T10:45:44 +03:00",
 		"isOpenSource": false,
@@ -1312,7 +1312,7 @@
 			"NodeJS",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ISOPOP",
 		"registered": "2015-09-12T06:53:51 +03:00",
 		"isOpenSource": true,
@@ -1349,7 +1349,7 @@
 			"Lua",
 			"Javascript"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "FROLIX",
 		"registered": "2014-07-15T03:01:11 +03:00",
 		"isOpenSource": false,
@@ -1386,7 +1386,7 @@
 			"Javascript",
 			"Firebase"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "TETRATREX",
 		"registered": "2020-01-26T09:04:59 +03:00",
 		"isOpenSource": true,
@@ -1422,7 +1422,7 @@
 			"Python",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "JASPER",
 		"registered": "2017-05-18T10:18:27 +03:00",
 		"isOpenSource": false,
@@ -1459,7 +1459,7 @@
 			"NodeJS",
 			"Lua"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ICOLOGY",
 		"registered": "2015-10-11T11:36:37 +03:00",
 		"isOpenSource": false,
@@ -1496,7 +1496,7 @@
 			"Lua",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "SUSTENZA",
 		"registered": "2016-11-26T04:00:27 +02:00",
 		"isOpenSource": false,
@@ -1532,7 +1532,7 @@
 			"NodeJS",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "HYDROCOM",
 		"registered": "2016-12-10T07:48:28 +02:00",
 		"isOpenSource": true,
@@ -1568,7 +1568,7 @@
 			"Firebase",
 			"Lua"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "YOGASM",
 		"registered": "2014-10-23T10:01:55 +02:00",
 		"isOpenSource": true,
@@ -1604,7 +1604,7 @@
 			"Python",
 			"Javascript"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "GEOFARM",
 		"registered": "2020-08-16T07:17:15 +03:00",
 		"isOpenSource": true,
@@ -1639,7 +1639,7 @@
 			"NodeJS",
 			"Javascript"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "COMTEST",
 		"registered": "2016-04-02T11:53:52 +03:00",
 		"isOpenSource": true,
@@ -1675,7 +1675,7 @@
 			"Firebase",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "RONBERT",
 		"registered": "2017-03-11T09:20:57 +03:00",
 		"isOpenSource": false,
@@ -1711,7 +1711,7 @@
 			"Javascript",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "FUTURITY",
 		"registered": "2016-04-17T01:44:30 +03:00",
 		"isOpenSource": false,
@@ -1746,7 +1746,7 @@
 			"Firebase",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ARTIQ",
 		"registered": "2015-07-11T08:01:39 +03:00",
 		"isOpenSource": false,
@@ -1782,7 +1782,7 @@
 			"NodeJS",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "QUORDATE",
 		"registered": "2015-07-31T06:57:05 +03:00",
 		"isOpenSource": false,
@@ -1817,7 +1817,7 @@
 			"Python",
 			"Firebase"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ENERVATE",
 		"registered": "2014-10-28T12:51:35 +02:00",
 		"isOpenSource": false,
@@ -1854,7 +1854,7 @@
 			"Javascript",
 			"Lua"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "EXODOC",
 		"registered": "2014-11-13T07:18:53 +02:00",
 		"isOpenSource": false,
@@ -1890,7 +1890,7 @@
 			"Javascript",
 			"NodeJS"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "DEEPENDS",
 		"registered": "2018-06-10T03:45:28 +03:00",
 		"isOpenSource": true,
@@ -1926,7 +1926,7 @@
 			"Lua",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "SUREMAX",
 		"registered": "2016-02-02T02:32:57 +02:00",
 		"isOpenSource": false,
@@ -1961,7 +1961,7 @@
 			"PHP",
 			"Javascript"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "UPDAT",
 		"registered": "2021-10-16T01:48:02 +03:00",
 		"isOpenSource": true,
@@ -1996,7 +1996,7 @@
 			"NodeJS",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "AQUOAVO",
 		"registered": "2021-01-28T10:29:13 +03:00",
 		"isOpenSource": true,
@@ -2032,7 +2032,7 @@
 			"PHP",
 			"Firebase"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "CHORIZON",
 		"registered": "2016-03-02T04:59:53 +03:00",
 		"isOpenSource": false,
@@ -2068,7 +2068,7 @@
 			"Python",
 			"Lua"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "PULZE",
 		"registered": "2021-05-26T11:29:59 +03:00",
 		"isOpenSource": true,
@@ -2104,7 +2104,7 @@
 			"Javascript",
 			"NodeJS"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ZENTHALL",
 		"registered": "2019-04-15T01:33:58 +03:00",
 		"isOpenSource": true,
@@ -2139,7 +2139,7 @@
 			"Lua",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ZILLACON",
 		"registered": "2016-04-20T06:05:44 +03:00",
 		"isOpenSource": false,
@@ -2176,7 +2176,7 @@
 			"Javascript",
 			"Lua"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "MITROC",
 		"registered": "2017-02-24T04:05:20 +03:00",
 		"isOpenSource": false,
@@ -2213,7 +2213,7 @@
 			"Python",
 			"Javascript"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "EWEVILLE",
 		"registered": "2018-07-23T10:22:42 +03:00",
 		"isOpenSource": true,
@@ -2250,7 +2250,7 @@
 			"NodeJS",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "MAGNAFONE",
 		"registered": "2021-06-11T04:32:08 +03:00",
 		"isOpenSource": false,
@@ -2286,7 +2286,7 @@
 			"NodeJS",
 			"Firebase"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "TERSANKI",
 		"registered": "2014-09-07T01:50:34 +03:00",
 		"isOpenSource": true,
@@ -2321,7 +2321,7 @@
 			"NodeJS",
 			"Firebase"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ACRUEX",
 		"registered": "2016-08-14T10:04:56 +03:00",
 		"isOpenSource": false,
@@ -2357,7 +2357,7 @@
 			"NodeJS",
 			"Javascript"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "XPLOR",
 		"registered": "2020-12-29T07:28:53 +03:00",
 		"isOpenSource": false,
@@ -2393,7 +2393,7 @@
 			"Javascript",
 			"Lua"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "QUIZMO",
 		"registered": "2015-07-12T11:59:34 +03:00",
 		"isOpenSource": false,
@@ -2430,7 +2430,7 @@
 			"Python",
 			"Javascript"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "APPLIDEC",
 		"registered": "2018-12-12T08:17:52 +02:00",
 		"isOpenSource": true,
@@ -2466,7 +2466,7 @@
 			"Lua",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "HANDSHAKE",
 		"registered": "2020-09-05T06:39:54 +03:00",
 		"isOpenSource": false,
@@ -2501,7 +2501,7 @@
 			"PHP",
 			"Firebase"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "BRISTO",
 		"registered": "2020-03-24T09:57:15 +03:00",
 		"isOpenSource": true,
@@ -2538,7 +2538,7 @@
 			"Lua",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "EXOSTREAM",
 		"registered": "2017-11-02T10:21:50 +02:00",
 		"isOpenSource": true,
@@ -2575,7 +2575,7 @@
 			"Javascript",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "COMCUR",
 		"registered": "2021-09-05T07:05:11 +03:00",
 		"isOpenSource": false,
@@ -2610,7 +2610,7 @@
 			"NodeJS",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "TALKOLA",
 		"registered": "2016-05-29T05:33:31 +03:00",
 		"isOpenSource": false,
@@ -2647,7 +2647,7 @@
 			"Lua",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "SYBIXTEX",
 		"registered": "2016-05-01T05:46:48 +03:00",
 		"isOpenSource": true,
@@ -2683,7 +2683,7 @@
 			"NodeJS",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ANOCHA",
 		"registered": "2015-10-25T07:11:11 +02:00",
 		"isOpenSource": true,
@@ -2719,7 +2719,7 @@
 			"Python",
 			"Lua"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "SPRINGBEE",
 		"registered": "2021-11-29T04:31:38 +03:00",
 		"isOpenSource": true,
@@ -2756,7 +2756,7 @@
 			"Javascript",
 			"Lua"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "EXOSPACE",
 		"registered": "2017-08-01T06:43:04 +03:00",
 		"isOpenSource": false,
@@ -2793,7 +2793,7 @@
 			"Firebase",
 			"NodeJS"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ZOXY",
 		"registered": "2020-09-23T09:01:52 +03:00",
 		"isOpenSource": false,
@@ -2829,7 +2829,7 @@
 			"Javascript",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ECLIPSENT",
 		"registered": "2016-04-04T11:33:33 +03:00",
 		"isOpenSource": true,
@@ -2865,7 +2865,7 @@
 			"PHP",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "MAGMINA",
 		"registered": "2017-05-02T09:46:04 +03:00",
 		"isOpenSource": false,
@@ -2901,7 +2901,7 @@
 			"Firebase",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "COMDOM",
 		"registered": "2019-10-17T02:46:58 +03:00",
 		"isOpenSource": true,
@@ -2937,7 +2937,7 @@
 			"Firebase",
 			"Lua"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ROUGHIES",
 		"registered": "2018-06-14T11:10:37 +03:00",
 		"isOpenSource": false,
@@ -2974,7 +2974,7 @@
 			"Firebase",
 			"Lua"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "BARKARAMA",
 		"registered": "2019-08-16T11:40:04 +03:00",
 		"isOpenSource": true,
@@ -3011,7 +3011,7 @@
 			"Firebase",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "QUILM",
 		"registered": "2015-10-26T03:40:43 +02:00",
 		"isOpenSource": false,
@@ -3046,7 +3046,7 @@
 			"NodeJS",
 			"Lua"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ARTWORLDS",
 		"registered": "2014-11-22T09:09:48 +02:00",
 		"isOpenSource": false,
@@ -3083,7 +3083,7 @@
 			"PHP",
 			"Javascript"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "APEXIA",
 		"registered": "2014-03-10T08:48:02 +03:00",
 		"isOpenSource": true,
@@ -3118,7 +3118,7 @@
 			"Javascript",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "UNIWORLD",
 		"registered": "2017-09-13T06:51:30 +03:00",
 		"isOpenSource": true,
@@ -3153,7 +3153,7 @@
 			"PHP",
 			"Firebase"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "BICOL",
 		"registered": "2019-10-07T10:17:09 +03:00",
 		"isOpenSource": false,
@@ -3188,7 +3188,7 @@
 			"NodeJS",
 			"Firebase"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "GINK",
 		"registered": "2020-01-07T07:05:25 +03:00",
 		"isOpenSource": false,
@@ -3225,7 +3225,7 @@
 			"Python",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "BULLJUICE",
 		"registered": "2014-04-17T06:12:59 +03:00",
 		"isOpenSource": true,
@@ -3262,7 +3262,7 @@
 			"Python",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "SURELOGIC",
 		"registered": "2021-08-19T06:53:54 +03:00",
 		"isOpenSource": true,
@@ -3298,7 +3298,7 @@
 			"Lua",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "GEEKKO",
 		"registered": "2016-12-02T12:54:20 +02:00",
 		"isOpenSource": true,
@@ -3333,7 +3333,7 @@
 			"NodeJS",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "CYTRAK",
 		"registered": "2014-02-17T08:17:44 +03:00",
 		"isOpenSource": true,
@@ -3368,7 +3368,7 @@
 			"Javascript",
 			"NodeJS"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ZAGGLES",
 		"registered": "2019-09-03T06:40:13 +03:00",
 		"isOpenSource": false,
@@ -3405,7 +3405,7 @@
 			"NodeJS",
 			"Firebase"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "PEARLESSA",
 		"registered": "2018-11-21T08:19:34 +02:00",
 		"isOpenSource": false,
@@ -3440,7 +3440,7 @@
 			"Javascript",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "RODEOMAD",
 		"registered": "2018-06-07T07:13:41 +03:00",
 		"isOpenSource": true,
@@ -3475,7 +3475,7 @@
 			"Python",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "SCENTRIC",
 		"registered": "2019-01-20T04:13:15 +02:00",
 		"isOpenSource": true,
@@ -3511,7 +3511,7 @@
 			"Lua",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "ARCTIQ",
 		"registered": "2021-12-21T03:03:05 +03:00",
 		"isOpenSource": true,
@@ -3547,7 +3547,7 @@
 			"Javascript",
 			"Python"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "INSURESYS",
 		"registered": "2016-07-30T12:23:36 +03:00",
 		"isOpenSource": true,
@@ -3583,7 +3583,7 @@
 			"NodeJS",
 			"PHP"
 		],
-		"picture": "http://placehold.it/32x32",
+		"picture": "assets/clientes-img.svg",
 		"company": "COMTOURS",
 		"registered": "2017-03-11T10:35:38 +03:00",
 		"isOpenSource": true,

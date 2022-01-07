@@ -25,7 +25,7 @@ const AboutUS = () => {
                             Atualmente, de forma incansável, faço uma jornada em busca de mais conhecimento e especialização dentro do mercado de trabalho.
                         </p>
                         <div className="wrapper">
-                            <a href="https://github.com/alynevieira" rel="noreferrer" target="_blank" className="social-link social-link--github" id="github">
+                            <a href="https://github.com/ricardo-node/" rel="noreferrer" target="_blank" className="social-link social-link--github" id="github">
                                 <svg className="social-svg" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
                                     <title>
                                         Github
@@ -37,7 +37,7 @@ const AboutUS = () => {
                                     </g>
                                 </svg>
                             </a>
-                            <a href="https://www.linkedin.com/in/alyne-alice-vieira-006372106/" rel="noreferrer" target="_blank" className="social-link social-link--linkedin" id="linkedin">
+                            <a href="https://www.linkedin.com/in/ricardo-node/" rel="noreferrer" target="_blank" className="social-link social-link--linkedin" id="linkedin">
                                 <svg className="social-svg" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
                                     <title>
                                         LinkedIn
@@ -49,7 +49,7 @@ const AboutUS = () => {
                                     </g>
                                 </svg>
                             </a>
-                            <a href="https://www.instagram.com/alynealicev" rel="noreferrer" target="_blank" className="social-link social-link--instagram" id="instagram">
+                            <a href="https://www.instagram.com/ricardonsantos1999" rel="noreferrer" target="_blank" className="social-link social-link--instagram" id="instagram">
                                 <svg className="social-svg" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
                                     <title>
                                         Instagram
